@@ -123,10 +123,6 @@ Incluye la integración de múltiples componentes electrónicos, la optimizació
      python -m venv .cafetechmachine
 	 source .cafetechmachine/bin/activate
      ```
-   - Instalar las dependencias del proyecto:
-     ```
-     pip install -r Software/requirements.txt
-     ```
 
 3. **Ejecución del programa**:
    - Ejecutar el archivo principal:
@@ -137,5 +133,5 @@ Incluye la integración de múltiples componentes electrónicos, la optimizació
 
 ## Documentación Específica
 
-- [Circuito](Circuito/README.md): Explicación del diagrama y componentes.
-- [Software](Software/README.md): Descripción del código, funciones y bibliotecas usadas.
+- [Circuito](Circuito/readme.md): Explicación del diagrama y componentes.
+- [Código](Codigo/readme.md): Descripción del código, funciones y bibliotecas usadas.
